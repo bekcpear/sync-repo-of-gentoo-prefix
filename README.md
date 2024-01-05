@@ -16,7 +16,7 @@
 4. `./update-pub-keys` used to get the pub keys of developers
 5. `./update-pub-keys force` used to update local keychains
 6. init repos
-   ```
+   ```bash
    cd /<prefix>/var/db/repos/
    git clone --depth 1 https://github.com/gentoo/gentoo
    cd ./gentoo/metadata/
